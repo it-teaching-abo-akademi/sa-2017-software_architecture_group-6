@@ -1,2 +1,2 @@
-# sa-2017-software_architecture_group-6
-sa-2017-software_architecture_group-6 created by GitHub Classroom
+
+Group members: Olli Arokari, Robert Backman, Victor Gallen, Nicolas Ragnell, Daniel Saxén
